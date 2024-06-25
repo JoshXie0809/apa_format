@@ -22,3 +22,8 @@ sometimes will encounter error when compiling file.tex
 
 `transform.py` transform bibfile to APA(in tex format),
 and you can insert the result to Reference in file.tex directly.
+
+## \laref
+```{tex}
+\newcommand\laref{\smallskip\noindent\hangindent=\parindent}
+```
