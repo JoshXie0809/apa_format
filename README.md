@@ -1,5 +1,5 @@
 # apa_format
-transform google scholar bibTeX to apa format using .tex
+transform google scholar bibTeX to APA (in tex format)
 
 ## usage
 
