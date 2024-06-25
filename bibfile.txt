@@ -1,0 +1,207 @@
+@article{stock1999forecasting,
+  title={Forecasting inflation},
+  author={Stock, James H and Watson, Mark W},
+  journal={Journal of monetary economics},
+  volume={44},
+  number={2},
+  pages={293--335},
+  year={1999},
+  publisher={Elsevier}
+}
+
+@article{steindel2005unreliability,
+  title={The unreliability of inflation indicators},
+  author={Steindel, Charles and Cecchetti, Stephen G and Chu, Rita},
+  journal={Available at SSRN 716681},
+  year={2005}
+}
+
+
+@article{atkeson2001phillips,
+  title={Are Phillips curves useful for forecasting inflation?},
+  author={Atkeson, Andrew and Ohanian, Lee E and others},
+  journal={Federal Reserve bank of Minneapolis quarterly review},
+  volume={25},
+  number={1},
+  pages={2--11},
+  year={2001},
+  publisher={Citeseer}
+}
+
+@article{ghysels2007midas,
+  title={MIDAS regressions: Further results and new directions},
+  author={Ghysels, Eric and Sinko, Arthur and Valkanov, Rossen},
+  journal={Econometric reviews},
+  volume={26},
+  number={1},
+  pages={53--90},
+  year={2007},
+  publisher={Taylor \& Francis}
+}
+
+@article{giannone2008nowcasting,
+  title={Nowcasting: The real-time informational content of macroeconomic data},
+  author={Giannone, Domenico and Reichlin, Lucrezia and Small, David},
+  journal={Journal of monetary economics},
+  volume={55},
+  number={4},
+  pages={665--676},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@book{durbin2012time,
+  title={Time series analysis by state space methods},
+  author={Durbin, James and Koopman, Siem Jan},
+  volume={38},
+  year={2012},
+  publisher={OUP Oxford}
+}
+
+@article{cavallo2013online,
+  title={Online and official price indexes: Measuring Argentina's inflation},
+  author={Cavallo, Alberto},
+  journal={Journal of Monetary Economics},
+  volume={60},
+  number={2},
+  pages={152--165},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@incollection{torrontegui2013shortcuts,
+  title={Shortcuts to adiabaticity},
+  author={Torrontegui, Erik and Ib{\'a}{\~n}ez, Sara and Mart{\'\i}nez-Garaot, Sofia and Modugno, Michele and del Campo, Adolfo and Gu{\'e}ry-Odelin, David and Ruschhaupt, Andreas and Chen, Xi and Muga, Juan Gonzalo},
+  booktitle={Advances in atomic, molecular, and optical physics},
+  volume={62},
+  pages={117--169},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{monteforte2013real,
+  title={Real-time forecasts of inflation: The role of financial variables},
+  author={Monteforte, Libero and Moretti, Gianluca},
+  journal={Journal of Forecasting},
+  volume={32},
+  number={1},
+  pages={51--61},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{breitung2015forecasting,
+  title={Forecasting inflation rates using daily data: A nonparametric MIDAS approach},
+  author={Breitung, J{\"O}rg and Roling, Christoph},
+  journal={Journal of Forecasting},
+  volume={34},
+  number={7},
+  pages={588--603},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@article{foroni2015unrestricted,
+  title={Unrestricted mixed data sampling (MIDAS): MIDAS regressions with unrestricted lag polynomials},
+  author={Foroni, Claudia and Marcellino, Massimiliano and Schumacher, Christian},
+  journal={Journal of the Royal Statistical Society Series A: Statistics in Society},
+  volume={178},
+  number={1},
+  pages={57--82},
+  year={2015},
+  publisher={Oxford University Press}
+}
+
+@article{funke2015tracking,
+  title={Tracking Chinese CPI inflation in real time},
+  author={Funke, Michael and Mehrotra, Aaron and Yu, Hao},
+  journal={Empirical Economics},
+  volume={48},
+  pages={1619--1641},
+  year={2015},
+  publisher={Springer}
+}
+
+@article{schorfheide2015real,
+  title={Real-time forecasting with a mixed-frequency VAR},
+  author={Schorfheide, Frank and Song, Dongho},
+  journal={Journal of Business \& Economic Statistics},
+  volume={33},
+  number={3},
+  pages={366--380},
+  year={2015},
+  publisher={Taylor \& Francis}
+}
+
+@article{ghysels2016midas,
+  title={MIDAS matlab toolbox},
+  author={Ghysels, Eric},
+  journal={URL: http://www.unc.edu/\~{}eghysels/papers/MIDAS \_Usersguide\_V1.0.pdf.Lastaccessedon},
+  volume={8},
+  number={16},
+  pages={2016},
+  year={2016}
+}
+
+@article{cavallo2016billion,
+  title={The billion prices project: Using online prices for measurement and research},
+  author={Cavallo, Alberto and Rigobon, Roberto},
+  journal={Journal of Economic Perspectives},
+  volume={30},
+  number={2},
+  pages={151--178},
+  year={2016},
+  publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203-2418}
+}
+
+@article{knotek2017nowcasting,
+  title={Nowcasting US headline and core inflation},
+  author={Knotek, Edward S and Zaman, Saeed},
+  journal={Journal of Money, Credit and Banking},
+  volume={49},
+  number={5},
+  pages={931--968},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+
+@techreport{bybee2020structure,
+  title={The structure of economic news},
+  author={Bybee, Leland and Kelly, Bryan T and Manela, Asaf and Xiu, Dacheng},
+  year={2020},
+  institution={National Bureau of Economic Research}
+}
+
+@article{babii2022machine,
+  title={Machine learning time series regressions with an application to nowcasting},
+  author={Babii, Andrii and Ghysels, Eric and Striaukas, Jonas},
+  journal={Journal of Business \& Economic Statistics},
+  volume={40},
+  number={3},
+  pages={1094--1106},
+  year={2022},
+  publisher={Taylor \& Francis}
+}
+
+@article{barbaglia2023forecasting,
+  title={Forecasting with economic news},
+  author={Barbaglia, Luca and Consoli, Sergio and Manzan, Sebastiano},
+  journal={Journal of Business \& Economic Statistics},
+  volume={41},
+  number={3},
+  pages={708--719},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
+
+@article{zheng2024words,
+  title={Words or numbers? Macroeconomic nowcasting with textual and macroeconomic data},
+  author={Zheng, Tingguo and Fan, Xinyue and Jin, Wei and Fang, Kuangnan},
+  journal={International Journal of Forecasting},
+  volume={40},
+  number={2},
+  pages={746--761},
+  year={2024},
+  publisher={Elsevier}
+}
