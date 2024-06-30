@@ -68,6 +68,8 @@ def transform_google_scholar_bibtext(file, target_file):
             first = True
         if line != "\n":
             paper += line
+    ## add final paper
+    papers.append(paper)
 
     ## collect papers: process field
     papers_dict = []
